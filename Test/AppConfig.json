@@ -39,7 +39,7 @@
 	"countryCode":"IN",
 	"message":"Your App is not supported by your Android version 9"
 	}],
-"messagesOneTime":[
+"messagesOneTime":[{
 	"id":10001
 	"appVersion":"",
 	"androidMajorVersion":"",
@@ -47,7 +47,7 @@
 	"modelCode":"",
 	"message":"More Questions has been added..Enjoy your app!!!"
 	}],
-"messagesAlways":[
+"messagesAlways":[{
 	"appVersion":"1.0",
 	"androidMajorVersion":"",
 	"manufacturer":"",
