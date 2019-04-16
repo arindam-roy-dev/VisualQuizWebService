@@ -1,31 +1,57 @@
 {
 "app":"Visual Quiz",
 "questionCategories":[{
-	"name":"History",
-	"description":"History, Biography",
-	"code":"History",
-	"maxQuestions":0
-	},{
 	"name":"Geography",
-	"description":"Places, People, Food and Culture",
 	"code":"Geography",
-	"maxQuestions":0
+	"description":"Places, Capitals, Countries, National Animals/Birds/Flags etc.",
+	"questionsLimit":0
 	},{
-	"name":"Science",
-	"description":"Science, Technology",
-	"code":"Places",
-	"maxQuestions":0
+	"name":"History",
+	"code":"History",
+	"description":"Historic Personalities, Historical Places, World Mythology, Biography",
+	"questionsLimit":0
 	},{
 	"name":"Nature",
-	"description":"Animals, Trees, Biology",
 	"code":"Nature",
-	"maxQuestions":0
+	"description":"Animals, Plants, Biology, Agriculture",
+	"questionsLimit":0
 	},{
-	"description":"Sports",
-	"code":"All kind of Sports",
-	"maxQuestions":0
-	}
-]
-
-
+	"name":"People",
+	"code":"People",
+	"description":"Food, Drinks, Culture, Books, Authors, Art, Music, Religion, Politics, Language, Personalities, Honors/Awards",
+	"questionsLimit":0
+	},{
+	"name":"Science",
+	"code":"Science",
+	"description":"Physics, Chemistry, Computer, Technology, Space, Trade and Industry",
+	"questionsLimit":0
+	},{
+	"name":"Sports",
+	"code":"Sports",
+	"description":"Games, Tournaments",
+	"questionsLimit":0
+	}],
+"messagesExit":[{
+	"appVersion":"1.0",
+	"androidMajorVersion":"9",
+	"manufacturer":"",
+	"modelCode":"",
+	"countryCode":"IN",
+	"message":"Your App is not supported by your Android version 9"
+	}],
+"messagesOneTime":[
+	"id":10001
+	"appVersion":"",
+	"androidMajorVersion":"",
+	"manufacturer":"",
+	"modelCode":"",
+	"message":"More Questions has been added..Enjoy your app!!!"
+	}],
+"messagesAlways":[
+	"appVersion":"1.0",
+	"androidMajorVersion":"",
+	"manufacturer":"",
+	"modelCode":"",
+	"message":"New version of Visual Quiz is available. Please update this from Play Store App."
+	}]
 }
