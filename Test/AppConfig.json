@@ -1,0 +1,31 @@
+{
+"app":"Visual Quiz",
+"questionCategories":[{
+	"name":"History",
+	"description":"History, Biography",
+	"code":"History",
+	"maxQuestions":0
+	},{
+	"name":"Geography",
+	"description":"Places, People, Food and Culture",
+	"code":"Geography",
+	"maxQuestions":0
+	},{
+	"name":"Science",
+	"description":"Science, Technology",
+	"code":"Places",
+	"maxQuestions":0
+	},{
+	"name":"Nature",
+	"description":"Animals, Trees, Biology",
+	"code":"Nature",
+	"maxQuestions":0
+	},{
+	"description":"Sports",
+	"code":"All kind of Sports",
+	"maxQuestions":0
+	}
+]
+
+
+}
