@@ -4,32 +4,32 @@
 	"name":"Geography",
 	"code":"Geography",
 	"description":"Places, Capitals, Countries, National Animals/Birds/Flags etc.",
-	"questionsLimit":0
+	"questionsLimit":2
 	},{
 	"name":"History",
 	"code":"History",
 	"description":"Historic Personalities, Historical Places, World Mythology, Biography",
-	"questionsLimit":0
+	"questionsLimit":2
 	},{
 	"name":"Nature",
 	"code":"Nature",
 	"description":"Animals, Plants, Biology, Agriculture",
-	"questionsLimit":6
+	"questionsLimit":3
 	},{
 	"name":"People",
 	"code":"People",
 	"description":"Food, Drinks, Culture, Books, Authors, Art, Music, Religion, Politics, Language, Personalities, Honors/Awards",
-	"questionsLimit":0
+	"questionsLimit":2
 	},{
 	"name":"Science",
 	"code":"Science",
 	"description":"Physics, Chemistry, Computer, Technology, Space, Trade and Industry",
-	"questionsLimit":0
+	"questionsLimit":2
 	},{
 	"name":"Sports",
 	"code":"Sports",
 	"description":"Games, Tournaments",
-	"questionsLimit":0
+	"questionsLimit":2
 	}],
 "messagesExit":[{
 	"appVersion":"1.0",
