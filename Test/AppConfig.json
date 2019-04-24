@@ -24,7 +24,7 @@
 	"name":"Science",
 	"code":"Science",
 	"description":"Physics, Chemistry, Computer, Technology, Space, Trade and Industry",
-	"questionsLimit":2
+	"questionsLimit":3
 	},{
 	"name":"Sports",
 	"code":"Sports",
