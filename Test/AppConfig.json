@@ -32,8 +32,8 @@
 	"questionsLimit":2
 	}],
 "messagesExit":[{
-	"appVersion":"1.0",
-	"androidMajorVersion":"1",
+	"appVersion":"0.0",
+	"androidMajorVersion":"",
 	"manufacturer":"",
 	"modelCode":"",
 	"countryCode":"IN",
@@ -41,14 +41,14 @@
 	}],
 "messagesOneTime":[{
 	"id":10001,
-	"appVersion":"",
+	"appVersion":"0.0",
 	"androidMajorVersion":"",
 	"manufacturer":"",
 	"modelCode":"",
 	"message":"More Questions has been added..Enjoy your app!!!"
 	}],
 "messagesAlways":[{
-	"appVersion":"1.0",
+	"appVersion":"0.0",
 	"androidMajorVersion":"",
 	"manufacturer":"",
 	"modelCode":"",
