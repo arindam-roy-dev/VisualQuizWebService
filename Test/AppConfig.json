@@ -11,24 +11,24 @@
 	"description":"Historic Personalities, Historical Places, World Mythology, Biography",
 	"questionsLimit":9
 	},{
-	"name":"Nature",
+	"name":"Nature & Biology",
 	"code":"Nature",
-	"description":"Animals, Plants, Biology, Agriculture",
+	"description":"Animals, Plants, Biology, Agriculture, Human Body",
 	"questionsLimit":4
 	},{
-	"name":"People",
+	"name":"People & Culture",
 	"code":"People",
 	"description":"Food, Drinks, Culture, Books, Authors, Art, Music, Religion, Politics, Language, Personalities, Honors/Awards",
-	"questionsLimit":2
+	"questionsLimit":3
 	},{
-	"name":"Science",
+	"name":"Science & Business",
 	"code":"Science",
 	"description":"Physics, Chemistry, Computer, Technology, Space, Trade and Industry",
 	"questionsLimit":13
 	},{
 	"name":"Sports",
 	"code":"Sports",
-	"description":"Games, Tournaments",
+	"description":"Games, Club and International Tournaments, Sports Associations, Biography of Players",
 	"questionsLimit":2
 	}],
 "messagesExit":[{
