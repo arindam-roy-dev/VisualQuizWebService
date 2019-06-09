@@ -9,7 +9,7 @@
 	"name":"History",
 	"code":"History",
 	"description":"Historic Personalities, Historical Places, World Mythology, Biography",
-	"questionsLimit":50
+	"questionsLimit":51
 	},{
 	"name":"Nature & Biology",
 	"code":"Nature",
@@ -19,7 +19,7 @@
 	"name":"People & Culture",
 	"code":"People",
 	"description":"Food, Drinks, Culture, Books, Authors, Art, Music, Religion, Politics, Language, Personalities, Honors/Awards",
-	"questionsLimit":50
+	"questionsLimit":55
 	},{
 	"name":"Science & Business",
 	"code":"Science",
