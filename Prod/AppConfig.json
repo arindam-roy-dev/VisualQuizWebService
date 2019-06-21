@@ -9,7 +9,7 @@
 	"name":"History",
 	"code":"History",
 	"description":"Historic Personalities, Historical Places, World Mythology, Biography",
-	"questionsLimit":50
+	"questionsLimit":55
 	},{
 	"name":"Nature & Biology",
 	"code":"Nature",
@@ -24,7 +24,7 @@
 	"name":"Science & Business",
 	"code":"Science",
 	"description":"Physics, Chemistry, Computer, Technology, Space, Trade and Industry",
-	"questionsLimit":50
+	"questionsLimit":75
 	},{
 	"name":"Sports",
 	"code":"Sports",
