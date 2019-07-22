@@ -19,7 +19,7 @@
 	"name":"People & Culture",
 	"code":"People",
 	"description":"Food, Drinks, Culture, Books, Authors, Art, Music, Religion, Politics, Language, Personalities, Honors/Awards",
-	"questionsLimit":55
+	"questionsLimit":60
 	},{
 	"name":"Science & Business",
 	"code":"Science",
@@ -29,7 +29,7 @@
 	"name":"Sports",
 	"code":"Sports",
 	"description":"Games, Club and International Tournaments, Sports Associations, Biography of Players",
-	"questionsLimit":80
+	"questionsLimit":85
 	}],
 "messagesExit":[{
 	"appVersion":"0.0",
