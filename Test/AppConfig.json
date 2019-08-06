@@ -29,7 +29,7 @@
 	"name":"Sports",
 	"code":"Sports",
 	"description":"Games, Club and International Tournaments, Sports Associations, Biography of Players",
-	"questionsLimit":86
+	"questionsLimit":99
 	}],
 "messagesExit":[{
 	"appVersion":"0.0",
