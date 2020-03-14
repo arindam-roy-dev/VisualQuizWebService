@@ -48,22 +48,22 @@
 	"message":"More Questions has been added..Enjoy your app!!!"
 	}],
 "messagesAlways":[{
-	"appVersion":"1.6",
-	"androidMajorVersion":"",
-	"manufacturer":"",
-	"modelCode":"",
-	"message":"New version of Visual Quiz is available. Please update this from Play Store."
-	},{
-	"appVersion":"1.4",
-	"androidMajorVersion":"",
-	"manufacturer":"",
-	"modelCode":"",
-	"message":"New version of Visual Quiz is available. Please update this from Play Store."
-	},{
 	"appVersion":"0.0",
 	"androidMajorVersion":"",
 	"manufacturer":"",
 	"modelCode":"",
-	"message":"New version of Visual Quiz is available. Please update this from Play Store App."
+	"message":"New version of Visual Quiz is available. Please update from Play Store."
+	},{
+	"appVersion":"1.4",
+	"message":"New version of Visual Quiz is available. Please update from Play Store."
+	},{
+	"appVersion":"1.6",
+	"message":"New version of Visual Quiz is available. Please update from Play Store."
+	},{
+	"appVersion":"1.7",
+	"message":"New version of Visual Quiz is available. Please update from Play Store."
+	},{
+	"appVersion":"1.9",
+	"message":"New version of Visual Quiz is available. Please update from Play Store."
 	}]
 }
