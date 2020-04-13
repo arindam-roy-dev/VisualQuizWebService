@@ -14,12 +14,12 @@
 	"name":"Nature & Biology",
 	"code":"Nature",
 	"description":"Animals, Plants, Biology, Agriculture, Human Body",
-	"questionsLimit":98
+	"questionsLimit":101
 	},{
 	"name":"People & Culture",
 	"code":"People",
 	"description":"Food, Drinks, Culture, Books, Authors, Art, Music, Religion, Politics, Language, Personalities, Honors/Awards",
-	"questionsLimit":85
+	"questionsLimit":87
 	},{
 	"name":"Science & Business",
 	"code":"Science",
