@@ -9,7 +9,7 @@
 	"name":"History",
 	"code":"History",
 	"description":"Historic Personalities, Historical Places, World Mythology, Biography",
-	"questionsLimit":70
+	"questionsLimit":75
 	},{
 	"name":"Nature & Biology",
 	"code":"Nature",
@@ -29,7 +29,7 @@
 	"name":"Sports",
 	"code":"Sports",
 	"description":"Games, Club and International Tournaments, Sports Associations, Biography of Players",
-	"questionsLimit":100
+	"questionsLimit":105
 	}],
 "messagesExit":[{
 	"appVersion":"0.0",
