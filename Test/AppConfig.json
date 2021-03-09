@@ -14,7 +14,7 @@
 	"name":"Nature & Biology",
 	"code":"Nature",
 	"description":"Animals, Plants, Biology, Agriculture, Human Body",
-	"questionsLimit":120
+	"questionsLimit":122
 	},{
 	"name":"People & Culture",
 	"code":"People",
@@ -24,7 +24,7 @@
 	"name":"Science & Business",
 	"code":"Science",
 	"description":"Physics, Chemistry, Computer, Technology, Space, Trade and Industry",
-	"questionsLimit":115
+	"questionsLimit":116
 	},{
 	"name":"Sports",
 	"code":"Sports",
