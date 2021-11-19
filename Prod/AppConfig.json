@@ -18,10 +18,10 @@
 	},{
 	"name":"People & Culture",
 	"code":"People",
-	"description":"Food, Drinks, Culture, Books, Authors, Art, Music, Religion, Politics, Language, Personalities, Honors/Awards",
+	"description":"Food, Drinks, Culture, Books, Authors, Art, Music, Religion, Politics, Languages, Personalities, Awards, Video games",
 	"questionsLimit":115
 	},{
-	"name":"Science & Business",
+	"name":"Science & Business",, Video games
 	"code":"Science",
 	"description":"Physics, Chemistry, Computer, Technology, Space, Trade and Industry",
 	"questionsLimit":115
